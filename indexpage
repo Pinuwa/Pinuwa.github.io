@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Travel Photography Portfolio - [Your Name]</title>
+  <!-- Add CSS link or style tag here -->
+</head>
+<body>
+  <header>
+    <!-- Logo and navigation links -->
+    <h1>[Your Name]'s Travel Photography</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <!-- Heading and description -->
+      <h2>Welcome to [Your Name]'s Travel Photography Portfolio</h2>
+      <p>[Description of your love for travel and photography]</p>
+    </section>
+
+    <section id="gallery">
+      <!-- Gallery section -->
+      <h2>Gallery</h2>
+      <p>[Description of the gallery section]</p>
+      <!-- Grid of thumbnail images -->
+      <div class="image-grid">
+        <!-- Thumbnail images -->
+        <a href="path_to_full_image.jpg"><img src="path_to_thumbnail_image.jpg" alt="Image Description"></a>
+        <!-- Add more thumbnail images -->
+      </div>
+    </section>
+
+    <!-- Add more sections for different photography categories -->
+
+  </main>
+
+  <aside>
+    <!-- Sidebar with related links -->
+    <ul>
+      <li><a href="path_to_blog">Blog</a></li>
+      <li><a href="path_to_photography_tips">Photography Tips</a></li>
+      <!-- Add more sidebar links -->
+    </ul>
+  </aside>
+
+  <footer>
+    <!-- Footer with social media icons and contact information -->
+    <div class="social-media">
+      <!-- Social media icons -->
+      <a href="path_to_instagram_profile"><img src="path_to_instagram_icon.jpg"
